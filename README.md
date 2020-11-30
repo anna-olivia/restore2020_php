@@ -1,2 +1,2 @@
-# phpabschluss
+# php Grundlagenprojekt
 ## Aufgabenstellung angehängt
