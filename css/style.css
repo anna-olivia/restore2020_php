@@ -1,0 +1,55 @@
+body{
+    background-color: black;;
+}
+.wrap{
+margin:auto;
+width:960px;
+overflow: none;
+}
+
+nav{
+    list-style-type: none;
+    padding-left: 500px;
+    padding-top: 25px;
+}
+nav li{
+    display: inline-block;
+ 
+   
+}
+li a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.links{
+    box-sizing: border-box;
+    float: left;
+    width:50%;
+    height: 715px;
+    background-color: grey;
+   padding: 5%;
+}
+div#layout.links{
+    height: 1550px;
+}
+.rechts{
+    box-sizing: border-box;
+    float: right;
+    background-color: white;
+    width: 50%;
+    height: 715px;
+    padding: 5%;
+}
+div#bilder.rechts{
+    height: 1550px;
+}
+.logo{
+   
+   padding: 2%;
+   margin-top:250px;
+   color: white;
+   font-weight: bold;
+   border: 2px solid black;
+}
+
